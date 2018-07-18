@@ -1,8 +1,8 @@
 <?php
 /**
  * Plugin Name: BE Featured Post Checkbox
- * Plugin URI:  https://www.billerickson.net/
- * Description: Adds a checkbox to feature the post.
+ * Plugin URI:  https://github.com/billerickson/BE-Featured-Post-Checkbox
+ * Description: Adds a checkbox to feature the post
  * Author:      Bill Erickson
  * Author URI:  https://www.billerickson.net
  * Version:     1.0.0
