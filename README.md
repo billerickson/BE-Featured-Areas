@@ -1,4 +1,4 @@
-# BE Like Content #
+# BE Featured Post Checkbox #
 ![Release](https://img.shields.io/github/release/billerickson/be-featured-post-checkbox.svg) ![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg?style=flat-square&maxAge=2592000)
 
 **Contributors:** billerickson  
