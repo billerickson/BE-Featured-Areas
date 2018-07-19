@@ -35,4 +35,4 @@ You can customize it with the following filters:
 * `be_featured_areas` - Modify which featured areas are available ([example](https://gist.github.com/billerickson/60de534fb4424818a9c55af6be5917f3))
 * `be_featured_areas_post_types` - Which post types can be featured. Default is `array( 'post' )`
 * `be_featured_areas_taxonomy` - Taxonomy used for featured areas. Default is `featured_area`
-* `be_featured_areas_register_taxonomy` - Whether to create the taxonomy. Use this to disable registration if the taxonomy is registered elsewhere ([example](https://gist.github.com/billerickson/819f70e593781a87eff018486a3946f4))
+* `be_featured_areas_register_taxonomy` - Whether to create the taxonomy. You can disable registration if the taxonomy is registered elsewhere ([example](https://gist.github.com/billerickson/819f70e593781a87eff018486a3946f4))
