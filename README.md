@@ -10,7 +10,10 @@
 
 BE Featured Areas adds a checkbox to the Edit Post screen to mark the current post as featured. It uses a hidden taxonomy to store this data because tax queries are more performant than meta queries.
 
-You can use the filters to add additional featured areas.
+By default it has a single "Featured Post" checkbox, but you can use the filters to add additional featured areas.
+
+<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3M0w3e2b0x3O1V0d0w1c/Screen%20Shot%202018-07-19%20at%208.48.09%20AM.png?X-CloudApp-Visitor-Id=1470414&v=da7a66e1" width="299" height="205" />
+
 
 ## Usage ##
 
