@@ -18,7 +18,7 @@ By default it has a single "Featured Post" checkbox, but you can use the filters
 
 ## Why use this? ##
 
-You could create your own metabox using [ACF](https://www.advancedcustomfields.com/), storing the data as post meta. But if you have lots of posts (and post metadata), you can run into performance issues doing the meta query. Taxonomy queries are more scalable, and a better fit for this use case.
+You could create your own metabox using [ACF](https://www.advancedcustomfields.com/), storing the data as post meta. But if you have lots of posts (and post metadata), you can run into performance issues doing the meta query. Taxonomy queries are more scalable and a better fit for this use case.
 
 You could register your own taxonomy, but you don't want to expose the full backend UI that allows content editors to add, remove, and edit taxonomy terms.
 
@@ -27,7 +27,7 @@ This plugin lets the theme define the featured areas (taxonomy terms) since they
 
 ## Usage ##
 
-To query for featured posts:
+To query for posts with "Featured Post" checked (first screenshot):
 
 ```
 $loop = new WP_Query( array(
