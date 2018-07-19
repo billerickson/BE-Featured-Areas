@@ -12,7 +12,9 @@ BE Featured Areas adds a checkbox to the Edit Post screen to mark the current po
 
 By default it has a single "Featured Post" checkbox, but you can use the filters to add additional featured areas.
 
-<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3M0w3e2b0x3O1V0d0w1c/Screen%20Shot%202018-07-19%20at%208.48.09%20AM.png?X-CloudApp-Visitor-Id=1470414&v=da7a66e1" width="299" height="205" />
+|<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/112I103t2p1J1R1x3E1m/Screen%20Shot%202018-07-19%20at%201.35.54%20PM.png?X-CloudApp-Visitor-Id=1470414&v=210c06c0" width="302" height="115" /> |  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3M0w3e2b0x3O1V0d0w1c/Screen%20Shot%202018-07-19%20at%208.48.09%20AM.png?X-CloudApp-Visitor-Id=1470414&v=da7a66e1" width="299" height="205" /> |
+|:---:|:---:|
+|Default options|Customized with different featured areas|
 
 
 ## Usage ##
