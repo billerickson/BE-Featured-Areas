@@ -14,7 +14,15 @@ By default it has a single "Featured Post" checkbox, but you can use the filters
 
 |<img src="https://d3vv6lp55qjaqc.cloudfront.net/items/112I103t2p1J1R1x3E1m/Screen%20Shot%202018-07-19%20at%201.35.54%20PM.png?X-CloudApp-Visitor-Id=1470414&v=210c06c0" width="302" height="115" /> |  <img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3M0w3e2b0x3O1V0d0w1c/Screen%20Shot%202018-07-19%20at%208.48.09%20AM.png?X-CloudApp-Visitor-Id=1470414&v=da7a66e1" width="299" height="205" /> |
 |:---:|:---:|
-|Default options|Customized with different featured areas|
+|Default option|Customized with different featured areas|
+
+## Why use this? ##
+
+You could create your own metabox using [ACF](https://www.advancedcustomfields.com/), storing the data as post meta. But if you have lots of posts (and post metadata), you can run into performance issues doing the meta query. Taxonomy queries are more scalable, and a better fit for this use case.
+
+You could register your own taxonomy, but you don't want to expose the full backend UI that allows content editors to add, remove, and edit taxonomy terms.
+
+This plugin lets the theme define the featured areas (taxonomy terms) since they correspond with areas within that theme.
 
 
 ## Usage ##
