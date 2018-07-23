@@ -188,7 +188,7 @@ class BE_Featured_Areas {
 		foreach( $this->featured_areas as $featured_area ) {
 			$is_featured = has_term( $featured_area['slug'], $this->taxonomy, $post );
 			echo '<p>';
-				echo '<input type="checkbox" id="be_featured_areas_' . $featured_area['slug'] . '" name="be_featured_post_areas_' . $featured_area['slug'] . '" ' . checked( $is_featured, true, false ) . '>';
+				echo '<input type="checkbox" id="be_featured_areas_' . $featured_area['slug'] . '" name="be_featured_areas_' . $featured_area['slug'] . '" ' . checked( $is_featured, true, false ) . '>';
 				echo '<label for="be_featured_areas_' . $featured_area['slug'] . '" style="margin-left: 4px;">' . $featured_area['label'] . '</label>';
 			echo '</p>';
 		}
