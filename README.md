@@ -34,7 +34,7 @@ $loop = new WP_Query( array(
 	'tax_query' => array(
 		array(
 			'taxonomy' => 'featured_area',
-			'field' = 'slug',
+			'field' => 'slug',
 			'terms' => 'featured',
 		)
 	)
